@@ -5,18 +5,15 @@
       "past" : "{0}个季度前",
       "next" : "下季度",
       "future" : "{0}个季度后",
-      "previous" : "上季度"
     },
     "day" : {
       "next" : "明天",
-      "previous" : "昨天",
       "future" : "{0}天后",
       "past" : "{0}天前",
       "current" : "今天"
     },
     "year" : {
       "past" : "{0}年前",
-      "previous" : "去年",
       "future" : "{0}年后",
       "next" : "明年",
       "current" : "今年"
@@ -29,7 +26,6 @@
     "now" : "现在",
     "week" : {
       "current" : "本周",
-      "previous" : "上周",
       "past" : "{0}周前",
       "next" : "下周",
       "future" : "{0}周后"
@@ -43,7 +39,6 @@
       "future" : "{0}个月后",
       "current" : "本月",
       "past" : "{0}个月前",
-      "previous" : "上个月",
       "next" : "下个月"
     },
     "hour" : {
